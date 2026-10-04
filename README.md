@@ -1,3 +1,25 @@
+# Telkom University Company Profile - Praktikum
+
+Proyek praktikum Git, GitHub, PHP native, MySQL/MariaDB, dan CSS.
+
+## Cara Menjalankan Project
+
+1. Jalankan Apache dan MySQL/MariaDB melalui XAMPP.
+2. Pastikan database `telkom_profile` sudah tersedia.
+3. Buka browser dan akses:
+
+   http://localhost/telkom-company-profile/
+
+4. Halaman yang dapat diuji:
+   - Beranda
+   - Profil
+   - Program Studi
+   - Berita
+   - Kontak
+
+Project ini digunakan untuk praktikum dan bukan situs resmi Telkom University.
+
+
 ## Penyelesaian Merge Conflict
 
 Pada praktikum BAB 12, dilakukan simulasi merge conflict pada file
