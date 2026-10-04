@@ -23,3 +23,4 @@ Commit penyelesaian conflict:
 Riwayat conflict dapat diperiksa dengan:
 
 git log --oneline --graph --decorate --all
+Praktikum diuji melalui dua folder kerja untuk mensimulasikan kolaborasi Git.
