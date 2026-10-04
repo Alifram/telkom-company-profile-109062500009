@@ -50,7 +50,9 @@ Praktikum diuji melalui dua folder kerja untuk mensimulasikan kolaborasi Git.
 
 Output `git log --oneline --graph --decorate --all`:
 
-    * 44a4a26 (HEAD -> main, origin/main, origin/HEAD) docs: tambahkan catatan simulasi dua folder
+    * bbdce02 (HEAD -> main) docs: lengkapi panduan menjalankan project
+    * a82aa33 (tag: v1.0.0, origin/main, origin/HEAD) docs: tambahkan riwayat praktikum Git
+    * 44a4a26 docs: tambahkan catatan simulasi dua folder
     * 9aaf32c docs: dokumentasikan penyelesaian merge conflict
     *   5535519 fix: selesaikan conflict pada label profil
     |\
